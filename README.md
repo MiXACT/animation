@@ -1,2 +1,1 @@
-[![Netology AHJ](https://github.com/MiXACT/DnD_Trello/actions/workflows/web.yml/badge.svg)](https://github.com/MiXACT/DnD_Trello/actions/workflows/web.yml)
-[![Build status](https://ci.appveyor.com/api/projects/status/my00vcs0029ot87k?svg=true)](https://ci.appveyor.com/project/MiXACT/dnd-trello)
+[![Netology AHJ](https://github.com/MiXACT/animation/actions/workflows/web.yml/badge.svg)](https://github.com/MiXACT/animation/actions/workflows/web.yml)
