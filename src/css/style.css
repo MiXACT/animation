@@ -1,0 +1,37 @@
+.btn {
+	display: inline-block;
+	background-color: #1d32e7;
+	border-radius: 5px;
+	border: transparent;
+	color: white;
+	cursor: pointer;
+	font-weight: 700;
+	font-size: 14px;
+	width: 100px;
+	height: 30px;
+	margin: 20px 0 0 20px;
+}
+
+.btn:active {
+	background-color: #7c89fa;
+}
+
+.dropDown {
+	width: 25em;
+	height: 0;
+	background-color: #d2d4d8;
+	box-sizing: border-box;
+	border: 1px solid gray;
+	border-radius: 5px;
+	color: rgb(59, 58, 58);
+	word-wrap: break-word;
+	margin: 5px 0 0 20px;
+	overflow: hidden;
+	visibility: hidden;
+	transition: height 0.5s, visibility 0.4s;
+}
+
+.rollOut {
+	height: 5em;
+	visibility: visible;
+}
