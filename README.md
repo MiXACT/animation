@@ -1,1 +1,2 @@
 [![Netology AHJ](https://github.com/MiXACT/animation/actions/workflows/web.yml/badge.svg)](https://github.com/MiXACT/animation/actions/workflows/web.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/pphlx8i848gw6dgw?svg=true)](https://ci.appveyor.com/project/MiXACT/animation)
